@@ -10,6 +10,9 @@ This project involves the development and deployment of a robust crop recommenda
 Users can input values for Nitrogen (mg), Phosphorus (mg), Potassium (mg), Temperature (C), Humidity (%), pH (3-11), and Rainfall (mm).
 Crop Prediction: Based on the provided inputs, the model predicts the most suitable crop to be planted.
 
+![image](https://github.com/user-attachments/assets/b34a2b6e-a451-4d7c-93b7-437d121e5e8c)
+
+
 **Data Analysis:** 
 Includes analysis of essential nutrient levels and environmental conditions to maximize crop yield and profitability.
 
