@@ -13,6 +13,9 @@ Crop Prediction: Based on the provided inputs, the model predicts the most suita
 **Data Analysis:** 
 Includes analysis of essential nutrient levels and environmental conditions to maximize crop yield and profitability.
 
+![image](https://github.com/user-attachments/assets/0c3831ee-d1ed-4d5c-aace-a98a0a57d304)
+
+
 **Dataset**
 The dataset contains the following columns:
 
