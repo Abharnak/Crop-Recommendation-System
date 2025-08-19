@@ -1,0 +1,42 @@
+1. Workflow
+
+📂 Data Collection → 🛠 Data Preprocessing → 🔍 EDA → 🤖 Model Training → ✅ Evaluation
+
+2. Features
+
+Nitrogen (N)
+Phosphorus (P)
+Potassium (K)
+Temperature
+Humidity
+pH
+Rainfall
+
+4. Evaluation Metrics
+
+Accuracy ✔
+Precision ✔
+Recall ✔
+F1-score ✔
+
+5. Key Highlights
+
+✅ Multi-class classification
+✅ Supervised ML
+✅ Best Model: Random Forest
+✅ Feature Scaling: StandardScaler
+✅ Evaluation: Classification Report
+
+3. Algorithms Tested
+
+Decision Tree
+
+Random Forest ✅ (Best)
+
+Naive Bayes
+
+SVM
+
+Logistic Regression
+
+KNN
